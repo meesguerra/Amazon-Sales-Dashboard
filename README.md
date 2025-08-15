@@ -14,9 +14,9 @@ An interactive dashboard analyzing Amazon sales data to uncover revenue trends, 
 - Seasonal sales spikes identified for targeted promotions.
 
 ## Dashboard Previews
-![Dashboard Page 1](C:\Users\Pranjal Chavle\Documents\Power Bi & SQL\Amazon Sales Data_Page_1.jpg)
-![Dashboard Page 2](C:\Users\Pranjal Chavle\Documents\Power Bi & SQL\Amazon Sales Data_Page_2.jpg)
-![Dashboard Page 3](C:\Users\Pranjal Chavle\Documents\Power Bi & SQL\Amazon Sales Data_Page_3.jpg)
+![Dashboard Page 1](images/Amazon Sales Data_Page_1.jpg)
+![Dashboard Page 2](images/Amazon Sales Data_Page_2.jpg)
+![Dashboard Page 3](images/Amazon Sales Data_Page_3.jpg)
 
 ## Tools Used
 - Power BI – Dashboard & Data Visualization
